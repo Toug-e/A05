@@ -1,0 +1,22 @@
+a:focus,a:hover{
+  font-style: italic;
+  color: #800000;
+  }
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+h3 {
+    font-size: 105%;
+}
+header{
+    background-color: #800000;
+    color: rgb(28, 80, 201);
+    text-align: center;
+    padding: 5px;
+}
